@@ -11,4 +11,10 @@ This is a userspace program to allow two hand tracking and cursor contol with Mi
 Required Packages:
 sudo apt-get install libusb-1.0-0-dev libqt4-dev libgtk2.0-dev cmake libglew1.5-dev libcv-dev libhighgui-dev libcvaux-dev libgsl0-dev libglut3-dev libxmu-dev libx11-dev
 
-
+Installation:
+inside ktouch/ run these commands:
+mkdir build
+cd build
+cmake ../
+make
+./bin/ktouch to execute the program
