@@ -1,0 +1,14 @@
+| _|_ _     _|_ 
+|< | (_)|_|(_| |
+
+Credit to:
+Me (Patrick Hammer, patrickhammer.com)
+Louis Sanchez, Gustavo Vincent, Daniel Berk, & Paul Kim - my classmates
+Tim Flaman - tim@timflaman.com for inspiring mouse movement http://www.twitter.com/timOoblik
+Robert Walter - for finger tracking and surface touching http://twitter.com/robbeofficial
+
+This is a userspace program to allow two hand tracking and cursor contol with Microsoft's Kinect sensor.
+Required Packages:
+sudo apt-get install libusb-1.0-0-dev libqt4-dev libgtk2.0-dev cmake libglew1.5-dev libcv-dev libhighgui-dev libcvaux-dev libgsl0-dev libglut3-dev libxmu-dev libx11-dev
+
+
